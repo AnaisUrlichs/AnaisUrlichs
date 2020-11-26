@@ -13,5 +13,10 @@ I keep a list of public DevOps resources on my [Notion](https://www.notion.so/De
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [#6 DevOps Diary: Recap of My First KubeCon](https://blog.anaisurl.com/6-devops-diary/)
+- [#5 DevOps Diary: GitOps, gitops, git...](https://blog.anaisurl.com/5-devops-diary/)
+- [#4 DevOps Diary: On Serverless, Events, And more Notes](https://blog.anaisurl.com/4-devops-diary/)
+- [#3 DevOps Diary: Helm(ets) on](https://blog.anaisurl.com/3-devops-diary-helm-ets-on/)
+- [Getting started with Kubernetes: kubectl and microk8s on Ubuntu](https://blog.anaisurl.com/kubernetes-kubectl-microk8s/)
 <!-- BLOG-POST-LIST:END -->
 
