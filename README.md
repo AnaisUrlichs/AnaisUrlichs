@@ -13,10 +13,10 @@ I keep a list of public DevOps resources on my [Notion](https://www.notion.so/De
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [#8 DevOps Diary: No more Docker?](https://blog.anaisurl.com/8-devops-diary/)
 - [#7 DevOps Diary: DevSecOps and how to make the best of learning DevOps in 2021](https://blog.anaisurl.com/7-devops-diary/)
 - [#6 DevOps Diary: Recap of My First KubeCon](https://blog.anaisurl.com/6-devops-diary/)
 - [#5 DevOps Diary: GitOps, gitops, git...](https://blog.anaisurl.com/5-devops-diary/)
 - [#4 DevOps Diary: On Serverless, Events, And more Notes](https://blog.anaisurl.com/4-devops-diary/)
-- [#3 DevOps Diary: Helm(ets) on](https://blog.anaisurl.com/3-devops-diary-helm-ets-on/)
 <!-- BLOG-POST-LIST:END -->
 
