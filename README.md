@@ -13,10 +13,10 @@ I keep a list of public DevOps resources on my [Notion](https://www.notion.so/De
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [About Developer Evangelism](https://blog.anaisurl.com/about-developer-evangelism/)
 - [#17 DevOps Diary: Kubernetes and Community Resources](https://blog.anaisurl.com/17-devops-diary-kubernetes-and-community-resources/)
 - [#16 DevOps Diary: Kubernetes and Community Resources](https://blog.anaisurl.com/16-devops-diary-kubernetes-and-community-resources/)
 - [#15 DevOps Diary: Docker, Kubernetes, and Community Resources](https://blog.anaisurl.com/15-devops-diary-docker-kubernetes-and-community-resources/)
 - [#14 DevOps Diary: Learning Go & More Podcasts!](https://blog.anaisurl.com/14-devops-diary-learning-go-more-podcasts/)
-- [#13 DevOps Diary: Events are back](https://blog.anaisurl.com/13-devops-diary-events-are-back/)
 <!-- BLOG-POST-LIST:END -->
 
