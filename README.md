@@ -7,7 +7,7 @@
 * Checkout my DevOps [Newsletter](https://blog.anaisurl.com/tag/devops)
 * Subscribe to my [YouTube](https://www.youtube.com/channel/UCb4mfRT5UWpjoUQRcIE2qOQ) for new tutorials weekly
 
-I keep a list of public DevOps resources on my [Notion](https://www.notion.so/DevOps-Diary-2e5c82e48d374442858fc8295070a4b8) :boom:
+I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.com/) :boom:
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
