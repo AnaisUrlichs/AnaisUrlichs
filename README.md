@@ -2,7 +2,7 @@
 
 **More about me?** :information_source:
 * Developer Evangelist at [Codefresh](https://codefresh.io/)
-* Spent 3 years in crypto, contributing to [NEAR Protocol](https://github.com/near); now transitioning to DevOps
+* Spent 3 years in crypto, contributing to [NEAR Protocol](https://github.com/near)
 * View my [Website](https://anaisurl.com/)
 * Checkout my DevOps [Newsletter](https://blog.anaisurl.com/tag/devops)
 * Subscribe to my [YouTube](https://www.youtube.com/channel/UCb4mfRT5UWpjoUQRcIE2qOQ) for new tutorials weekly
