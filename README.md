@@ -1,7 +1,9 @@
 ### Welcome to my GitHub :turtle: (YES! Turtles are like little dragons)
 
+![twitter-follower](https://img.shields.io/twitter/follow/urlichsanais?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCb4mfRT5UWpjoUQRcIE2qOQ?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCb4mfRT5UWpjoUQRcIE2qOQ?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) 
+
 **More about me?** :information_source:
-* Developer Evangelist at [Codefresh](https://codefresh.io/)
+* SRE at [Civo](https://www.civo.com/)
 * Spent 3 years in crypto, contributing to [NEAR Protocol](https://github.com/near)
 * View my [Website](https://anaisurl.com/)
 * Checkout my DevOps [Newsletter](https://blog.anaisurl.com/tag/devops)
@@ -17,3 +19,7 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 - [#24 DevOps Diary: Kubernetes and Community Resources](https://blog.anaisurl.com/24-devops-diary-kubernetes-and-community-resources/)
 - [#23 DevOps Diary: Kubernetes and Community Resources](https://blog.anaisurl.com/23-devops-diary-kubernetes-and-community-resources/)
 <!-- BLOG-POST-LIST:END -->
+
+**Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
