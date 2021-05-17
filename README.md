@@ -13,11 +13,11 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [#28 DevOps Diary | Kubernetes & Community Resources](https://blog.anaisurl.com/28-devops-diary-kubernetes-community-resources/)
+- [#27 DevOps Diary — 100DaysOfKubernetes.io](https://blog.anaisurl.com/27-devops-diary-100daysofkubernetes-io/)
 - [Comparison: Snyk, Aqua Security, Sysdig](https://codefresh.io/security-testing/comparison-snyk-aqua-security-sysdig/)
-- [Comparison: Code Analysis Tools](https://codefresh.io/continuous-integration/comparison-code-analysis-tools/)
-- [Surviving the Disaster: How to Identify Bugs Immediately and Get Back on Track](https://codefresh.io/webinars/surviving-disaster-identify-bugs-immediately-get-back-track/)
-- [Code Coverage Reports using Codacy and Codefresh](https://codefresh.io/howtos/codacy-coverage-reports/)
-- [Generate Code Coverage Reports using Coveralls and Codefresh](https://codefresh.io/howtos/code-coverage-reports-using-coveralls-codefresh/)
+- [#26 DevOps Diary: Kubernetes and Community Resources](https://blog.anaisurl.com/26-devops-diary-kubernetes-and-community-resources/)
+- [#25 DevOps Diary: Kubernetes and Community Resources](https://blog.anaisurl.com/25-devops-diary-kubernetes-and-community-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
