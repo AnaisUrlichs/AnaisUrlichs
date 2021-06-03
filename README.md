@@ -22,9 +22,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [My Non Traditional Career Path](https://www.youtube.com/watch?v=O0zYv2t5E18)
 - [Kubernetes Deployment Strategies | Day 37 of #100DaysOfKubernetes](https://www.youtube.com/watch?v=fMXvYxfPTOI)
 - [100 Days Of Kubernetes](https://www.youtube.com/watch?v=sUPzvkcpIro)
 - [Linkerd Beginner Tutorial | Day 36 of #100DaysOfKubernetes](https://www.youtube.com/watch?v=4Y6TR-sg0mQ)
 - [Argo Workflows and Argo Events | Day 35 of #100DaysOfKubernetes](https://www.youtube.com/watch?v=c3qJr6L8nHg)
-- [Full Tutorial GitOps & ArgoCD | Day 34 of #100DaysOfKubernetes](https://www.youtube.com/watch?v=c4v7wGqKcEY)
 <!-- YOUTUBE-LIST:END -->
