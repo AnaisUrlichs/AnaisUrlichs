@@ -13,11 +13,11 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [My Desk Setup (With Links)](https://anaisurl.com/my-desk-setup/)
 - [#30 DevOps Diary: The best content of the week](https://anaisurl.com/30-devops-diary/)
 - [#29 DevOps Diary: Welcome Back](https://anaisurl.com/29devopsdiary/)
 - [#28 DevOps Diary | Kubernetes & Community Resources](https://anaisurl.com/28-devops-diary-kubernetes-community-resources/)
 - [#27 DevOps Diary — 100DaysOfKubernetes.io](https://anaisurl.com/27-devops-diary-100daysofkubernetes-io/)
-- [Comparison: Snyk, Aqua Security, Sysdig](https://codefresh.io/security-testing/comparison-snyk-aqua-security-sysdig/)
 <!-- BLOG-POST-LIST:END -->
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
