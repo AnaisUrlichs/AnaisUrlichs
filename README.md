@@ -6,8 +6,8 @@
 * SRE at [Civo](https://www.civo.com/)
 * Spent 3 years in crypto, contributing to [NEAR Protocol](https://github.com/near)
 * View my [Website](https://anaisurl.com/)
-* Checkout my DevOps [Newsletter](https://blog.anaisurl.com/tag/devops)
-* Subscribe to my [YouTube](https://www.youtube.com/channel/UCb4mfRT5UWpjoUQRcIE2qOQ) for new tutorials weekly
+* Checkout my DevOps [Newsletter](https://anaisurl.com/tag/devops)
+* Subscribe to my [YouTube](https://www.youtube.com/c/AnaisUrlichs) for new tutorials weekly
 
 I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.com/) :boom:
 
