@@ -22,9 +22,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [10 Things I wish I would have known BEFORE learning Kubernetes](https://www.youtube.com/watch?v=_vw-5j_IAX4)
 - [Where do you start? Use Cases vs. Certification](https://www.youtube.com/watch?v=3KwNSKD3Br4)
 - [Verify Kubernetes Deployments with Datree](https://www.youtube.com/watch?v=MpdhrabnpYs)
 - [#100DaysOfKubernetes LIVE Q&A](https://www.youtube.com/watch?v=Qhuhc7otHLE)
 - [Okteto: Kubernetes Deployments Made Easy](https://www.youtube.com/watch?v=HmAawDYMWB4)
-- [Civo Cloud Kubernetes Overview](https://www.youtube.com/watch?v=_aZLHlzuG9U)
 <!-- YOUTUBE-LIST:END -->
