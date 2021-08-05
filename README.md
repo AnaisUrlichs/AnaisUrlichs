@@ -23,8 +23,8 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
 - [Introduction to Snyk -- Shifting Security Left](https://www.youtube.com/watch?v=SW-wy9LrCn8)
-- [A collection of questions and live answers](https://www.youtube.com/watch?v=ub1MAIusPwM)
 - [Shift Left Security & Testing](https://www.youtube.com/watch?v=Daqsffik2Rk)
 - [Where do you start? Use Cases vs. Certification](https://www.youtube.com/watch?v=3KwNSKD3Br4)
 - [10 Things I wish I would have known BEFORE learning Kubernetes](https://www.youtube.com/watch?v=_vw-5j_IAX4)
+- [Verify Kubernetes Deployments with Datree](https://www.youtube.com/watch?v=MpdhrabnpYs)
 <!-- YOUTUBE-LIST:END -->
