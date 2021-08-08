@@ -13,11 +13,11 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [#33 DevOps Diary:](https://anaisurl.com/33-devops-diary/)
+- [Welcome to my paid content](https://anaisurl.com/welcome-to-my-blog/)
 - [#32 DevOps Diary: Let's refresh](https://anaisurl.com/32-devops-diary-lets-refresh/)
 - [10 Things I wish I would have known before learning Kubernetes](https://anaisurl.com/10-things-i-wish-i-would-have-known-before-learning-kubernetes/)
 - [#31 DevOps Diary: How do I get started?](https://anaisurl.com/31-devops-diary-how-do-i-get-started/)
-- [My Desk Setup (With Links)](https://anaisurl.com/my-desk-setup/)
-- [#30 DevOps Diary: The best content of the week](https://anaisurl.com/30-devops-diary/)
 <!-- BLOG-POST-LIST:END -->
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
