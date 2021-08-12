@@ -22,9 +22,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Full Tutorial ArgoCD and Kustomize for GitOps Deployments | Part 1](https://www.youtube.com/watch?v=571cbVNahpE)
 - [My Video/Content Creation Process & Terminal Setup](https://www.youtube.com/watch?v=slvQGMXau90)
 - [A collection of questions and live answers](https://www.youtube.com/watch?v=ub1MAIusPwM)
 - [Introduction to Snyk -- Shifting Security Left](https://www.youtube.com/watch?v=SW-wy9LrCn8)
 - [Shift Left Security & Testing](https://www.youtube.com/watch?v=Daqsffik2Rk)
-- [Where do you start? Use Cases vs. Certification](https://www.youtube.com/watch?v=3KwNSKD3Br4)
 <!-- YOUTUBE-LIST:END -->
