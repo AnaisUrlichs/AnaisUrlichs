@@ -22,9 +22,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Introduction to GitHub Actions](https://www.youtube.com/watch?v=3LBLTGfVuj4)
 - [Working in public: how you can get started](https://www.youtube.com/watch?v=HaCspbspcUw)
 - [Working in public: how to get started](https://www.youtube.com/watch?v=wPYb5JmtFok)
 - [Full Tutorial ArgoCD and Kustomize for GitOps Deployments | Part 1](https://www.youtube.com/watch?v=571cbVNahpE)
 - [My Video/Content Creation Process & Terminal Setup](https://www.youtube.com/watch?v=slvQGMXau90)
-- [A collection of questions and live answers](https://www.youtube.com/watch?v=ub1MAIusPwM)
 <!-- YOUTUBE-LIST:END -->
