@@ -13,11 +13,11 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Top tools to learn when you are getting started](https://anaisurl.com/top-tools-to-learn-when-you-are-getting-started/)
-- [#37 DevOps Diary: Terraform](https://anaisurl.com/37-devops-diary/)
-- [#36 DevOps Diary: Highlighting People's Blogs](https://anaisurl.com/36-devops-diary/)
-- [#35 DevOps Diary: Making sense](https://anaisurl.com/35-devops-diary/)
-- [#34 DevOps Diary: Multi Podcasts -- ahm, *clusters](https://anaisurl.com/34-devops-diary/)
+- [Comparison: Snyk, Aqua Security, Sysdig](https://codefresh.io/security-testing/comparison-snyk-aqua-security-sysdig/)
+- [Comparison: Code Analysis Tools](https://codefresh.io/continuous-integration/comparison-code-analysis-tools/)
+- [Surviving the Disaster: How to Identify Bugs Immediately and Get Back on Track](https://codefresh.io/webinars/surviving-disaster-identify-bugs-immediately-get-back-track/)
+- [Code Coverage Reports using Codacy and Codefresh](https://codefresh.io/howtos/codacy-coverage-reports/)
+- [Generate Code Coverage Reports using Coveralls and Codefresh](https://codefresh.io/howtos/code-coverage-reports-using-coveralls-codefresh/)
 <!-- BLOG-POST-LIST:END -->
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
