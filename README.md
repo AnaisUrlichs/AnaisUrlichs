@@ -13,11 +13,11 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Simplify Troubleshooting your Kubernetes cluster with Komodor](https://anaisurl.com/simplify-troubleshooting/)
 - [#39 DevOps Diary: Your learning journey](https://anaisurl.com/39-devops-diary/)
 - [Full Tutorial — Deploying Helm Charts in Kubernetes with Terraform](https://anaisurl.com/helm-chart-terraform-deployment/)
 - [#38 DevOps Diary: Join us](https://anaisurl.com/38-devops-diary-join-us/)
 - [Top tools to learn when you are getting started](https://anaisurl.com/top-tools-to-learn-when-you-are-getting-started/)
-- [#37 DevOps Diary: Terraform](https://anaisurl.com/37-devops-diary/)
 <!-- BLOG-POST-LIST:END -->
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
