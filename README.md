@@ -13,11 +13,11 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Here are some of my previous newsletters and blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Troubleshooting your Kubernetes cluster with Komodor](https://anaisurl.com/simplify-troubleshooting/)
-- [#39 DevOps Diary: Your learning journey](https://anaisurl.com/39-devops-diary/)
-- [Full Tutorial — Deploying Helm Charts in Kubernetes with Terraform](https://anaisurl.com/helm-chart-terraform-deployment/)
-- [#38 DevOps Diary: Join us](https://anaisurl.com/38-devops-diary-join-us/)
-- [Top tools to learn when you are getting started](https://anaisurl.com/top-tools-to-learn-when-you-are-getting-started/)
+- [Comparison: Snyk, Aqua Security, Sysdig](https://codefresh.io/security-testing/comparison-snyk-aqua-security-sysdig/)
+- [Comparison: Code Analysis Tools](https://codefresh.io/continuous-integration/comparison-code-analysis-tools/)
+- [Surviving the Disaster: How to Identify Bugs Immediately and Get Back on Track](https://codefresh.io/webinars/surviving-disaster-identify-bugs-immediately-get-back-track/)
+- [Code Coverage Reports using Codacy and Codefresh](https://codefresh.io/howtos/codacy-coverage-reports/)
+- [Generate Code Coverage Reports using Coveralls and Codefresh](https://codefresh.io/howtos/code-coverage-reports-using-coveralls-codefresh/)
 <!-- BLOG-POST-LIST:END -->
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
