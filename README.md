@@ -3,7 +3,7 @@
 ![twitter-follower](https://img.shields.io/twitter/follow/urlichsanais?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCb4mfRT5UWpjoUQRcIE2qOQ?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCb4mfRT5UWpjoUQRcIE2qOQ?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) 
 
 **More about me?** :information_source:
-* SRE at [Civo](https://www.civo.com/)
+* Developer Advocate at ???
 * Spent 3 years in crypto, contributing to [NEAR Protocol](https://github.com/near)
 * View my [Website](https://anaisurl.com/)
 * Checkout my DevOps [Newsletter](https://anaisurl.com/tag/devops)
