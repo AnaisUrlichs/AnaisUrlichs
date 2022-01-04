@@ -22,9 +22,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
-- [What&#39;s next for 100DaysOfKubernetes and myself?](https://www.youtube.com/watch?v=wgI7jlvinN0)
 - [Full Tutorial: Monitoring and Troubleshooting stack with Prometheus, Grafana, Loki and Komodor](https://www.youtube.com/watch?v=Y7W-VYCL4pw)
 - [Kubernetes Policy Checks on Custom Resources](https://www.youtube.com/watch?v=7g8L_30_DSU)
 - [Implementing GitOps best practices with Crossplane and ArgoCD](https://www.youtube.com/watch?v=AV3x0t5peQI)
 - [My favourite DevOps &amp; cloud native tools](https://www.youtube.com/watch?v=eXkaPcOZbY8)
+- [GitOps best practices — Policy as Code on Datree](https://www.youtube.com/watch?v=xOppJthE1nA)
 <!-- YOUTUBE-LIST:END -->
