@@ -13,9 +13,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Cloud Security: Container image and IaC scanning with Trivy](https://www.youtube.com/watch?v=2cjH6Zkieys)
 - [Join me for coffee -- live Q &amp; A](https://www.youtube.com/watch?v=CDIqW_k-YTk)
 - [Kubernetes RBAC full tutorial with examples](https://www.youtube.com/watch?v=PSDVanXZ0a4)
 - [Learning in public](https://www.youtube.com/watch?v=OEgZANthQ10)
 - [Should you learn Docker before learning Kubernetes?](https://www.youtube.com/watch?v=PT2Iu1JkVOI)
-- [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions](https://www.youtube.com/watch?v=oImW32EbveU)
 <!-- YOUTUBE-LIST:END -->
