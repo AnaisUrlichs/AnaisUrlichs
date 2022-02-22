@@ -13,9 +13,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [My recent career change -- Why I joined Aqua Security](https://www.youtube.com/watch?v=2alfGBmqsHk)
 - [Join me for coffee -- live Q &amp; A](https://www.youtube.com/watch?v=QJSzPrfXvpk)
 - [Cloud Security: Container image and IaC scanning with Trivy](https://www.youtube.com/watch?v=2cjH6Zkieys)
 - [Join me for coffee -- live Q &amp; A](https://www.youtube.com/watch?v=CDIqW_k-YTk)
 - [Kubernetes RBAC full tutorial with examples](https://www.youtube.com/watch?v=PSDVanXZ0a4)
-- [Learning in public](https://www.youtube.com/watch?v=OEgZANthQ10)
 <!-- YOUTUBE-LIST:END -->
