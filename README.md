@@ -13,9 +13,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Using an AI to create a cloud native security blog post](https://www.youtube.com/watch?v=urmSHV3yTYE)
 - [Kubernetes Security through GitOps Best Practices: ArgoCD and Starboard](https://www.youtube.com/watch?v=YvMY8to9aHI)
 - [Get started with Kubernetes Security and Starboard](https://www.youtube.com/watch?v=QgctrpTpJec)
 - [Join me for coffee -- live Q &amp; A](https://www.youtube.com/watch?v=QJSzPrfXvpk)
 - [My recent career change -- Why I joined Aqua Security](https://www.youtube.com/watch?v=2alfGBmqsHk)
-- [Cloud Security: Container image and IaC scanning with Trivy](https://www.youtube.com/watch?v=2cjH6Zkieys)
 <!-- YOUTUBE-LIST:END -->
