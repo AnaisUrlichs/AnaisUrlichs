@@ -16,6 +16,6 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 - [I&#39;m gonna be at KubeCon in Valencia 🎉](https://www.youtube.com/watch?v=H6KnqgOeZSQ)
 - [DevOps Quick Question: Do you need to know frontend programming as DevOps Engineer?](https://www.youtube.com/watch?v=SOjHKNqelzE)
 - [Full GitOps Tutorial: Getting started with Flux CD](https://www.youtube.com/watch?v=5u45lXmhgxA)
-- [KubeCon Live Q&amp;A with Matty from Pulumi](https://www.youtube.com/watch?v=fZGNdpVICQU)
 - [Using an AI to create a cloud native security blog post](https://www.youtube.com/watch?v=urmSHV3yTYE)
+- [Kubernetes Security through GitOps Best Practices: ArgoCD and Starboard](https://www.youtube.com/watch?v=YvMY8to9aHI)
 <!-- YOUTUBE-LIST:END -->
