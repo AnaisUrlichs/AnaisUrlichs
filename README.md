@@ -13,9 +13,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [I&#39;m back! Or something like that 🎉](https://www.youtube.com/watch?v=NytqrEprbTo)
 - [🎉🎉🎉Celebrating 10.000 Subscribers!!!🎉🎉🎉](https://www.youtube.com/watch?v=JpNnXHnvwzA)
 - [KubeCon Live Q&amp;A with Matty from Pulumi](https://www.youtube.com/watch?v=fZGNdpVICQU)
 - [I&#39;m gonna be at KubeCon in Valencia 🎉](https://www.youtube.com/watch?v=H6KnqgOeZSQ)
 - [DevOps Quick Question: Do you need to know frontend programming as DevOps Engineer?](https://www.youtube.com/watch?v=SOjHKNqelzE)
-- [Full GitOps Tutorial: Getting started with Flux CD](https://www.youtube.com/watch?v=5u45lXmhgxA)
 <!-- YOUTUBE-LIST:END -->
