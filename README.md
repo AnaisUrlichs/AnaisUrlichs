@@ -13,9 +13,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Career Coffee Chat -- how to create career opportunities](https://www.youtube.com/watch?v=HmsDk8EhO7g)
 - [Kubernetes security scanning with Trivy CLI and Trivy Operator](https://www.youtube.com/watch?v=bgYrhQ6rTXA)
 - [🎉🎉🎉Celebrating 10.000 Subscribers!!!🎉🎉🎉](https://www.youtube.com/watch?v=JpNnXHnvwzA)
 - [I&#39;m back! Or something like that 🎉](https://www.youtube.com/watch?v=NytqrEprbTo)
 - [KubeCon Live Q&amp;A with Matty from Pulumi](https://www.youtube.com/watch?v=fZGNdpVICQU)
-- [I&#39;m gonna be at KubeCon in Valencia 🎉](https://www.youtube.com/watch?v=H6KnqgOeZSQ)
 <!-- YOUTUBE-LIST:END -->
