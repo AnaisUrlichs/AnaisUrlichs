@@ -11,6 +11,10 @@
 
 I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.com/) :boom:
 
+**Weekly Newsletter: Seven-Day DevOps**
+<!-- NEWSLETTER-LIST:START -->
+<!-- NEWSLETTER-LIST:END -->
+
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
 - [introduction to Kubernetes Operators](https://www.youtube.com/watch?v=KRNlDQTeFKs)
