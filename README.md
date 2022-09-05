@@ -17,9 +17,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [lazytrivy: Scan all your container images with one command](https://www.youtube.com/watch?v=lAncHN_W-tI)
 - [How to become an open source maintainer -- Live Q&amp;A](https://www.youtube.com/watch?v=Hfz7F5T62AU)
 - [introduction to Kubernetes Operators](https://www.youtube.com/watch?v=KRNlDQTeFKs)
 - [Grafana Loki to access Kubernetes logs](https://www.youtube.com/watch?v=Mn2YpMJaEBY)
 - [Security Scanners — What you need to know to get started](https://www.youtube.com/watch?v=MdzroGEVSAA)
-- [Kubernetes security scanning with Trivy CLI and Trivy Operator](https://www.youtube.com/watch?v=bgYrhQ6rTXA)
 <!-- YOUTUBE-LIST:END -->
