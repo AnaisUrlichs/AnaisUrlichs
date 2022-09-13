@@ -17,9 +17,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Kyverno Overview -- Defining Kubernetes Cluster Policies](https://www.youtube.com/watch?v=M_-r6vUKevQ)
 - [How to become a Developer Advocate &amp; My career path](https://www.youtube.com/watch?v=ihhQFeussO8)
 - [A deep dive into Helm Dependencies](https://www.youtube.com/watch?v=1Jpt5pIleZY)
 - [lazytrivy: Scan all your container images with one command](https://www.youtube.com/watch?v=lAncHN_W-tI)
 - [How to become an open source maintainer -- Live Q&amp;A](https://www.youtube.com/watch?v=Hfz7F5T62AU)
-- [introduction to Kubernetes Operators](https://www.youtube.com/watch?v=KRNlDQTeFKs)
 <!-- YOUTUBE-LIST:END -->
