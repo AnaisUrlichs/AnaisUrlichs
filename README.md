@@ -1,7 +1,5 @@
 ### Welcome to my GitHub :turtle: (YES! Turtles are like little dragons)
 
-[![@urlichsanais's Holopin board](https://holopin.io/api/user/board?user=urlichsanais)](https://holopin.io/@urlichsanais)
-
 ![twitter-follower](https://img.shields.io/twitter/follow/urlichsanais?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCb4mfRT5UWpjoUQRcIE2qOQ?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCb4mfRT5UWpjoUQRcIE2qOQ?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) 
 
 **More about me?** :information_source:
