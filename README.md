@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [These resource will level up your presentation](https://www.youtube.com/watch?v=b-PlAkvDbrQ)
 - [Unboxing my GitHub Star ⭐️ plaque 🥰](https://www.youtube.com/watch?v=v2yBpiJedDI)
 - [How it feels using Terraform for your infrastructure](https://www.youtube.com/watch?v=P_GZxZUE3o0)
 - [Some of the benefits of creating technical content ✨](https://www.youtube.com/watch?v=bImrG68kPQE)
 - [LIVE STREAM with Komodor: New Helm Dashboard](https://www.youtube.com/watch?v=HWn3jbtXRts)
-- [View your Helm Charts through this Dashboard -- Helm Plugins](https://www.youtube.com/watch?v=qqFMazUZxTc)
 <!-- YOUTUBE-LIST:END -->
