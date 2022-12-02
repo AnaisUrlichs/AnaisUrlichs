@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Bootstrap your cluster and application with Terraform](https://www.youtube.com/watch?v=dQJIc_ErPSs)
 - [We won Top Tech YouTuber at the Noonies -- Thank you!](https://www.youtube.com/watch?v=83PO29BHs8k)
 - [Learn how to use the Terraform Helm Provider](https://www.youtube.com/watch?v=HYIGljX7w74)
 - [Awesome career paths -- share your experinece](https://www.youtube.com/watch?v=9ExZf2eddhw)
 - [Public speakers, listen up — some tips on being a better speaker](https://www.youtube.com/watch?v=2oQZywwPACQ)
-- [These resource will level up your presentation](https://www.youtube.com/watch?v=b-PlAkvDbrQ)
 <!-- YOUTUBE-LIST:END -->
