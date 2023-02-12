@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [State Of OpenCon 2023 by OpenUK - Attendee Interviews](https://www.youtube.com/watch?v=EQJ1cW2SPFw)
 - [Introduction to eBPF](https://www.youtube.com/watch?v=MQ1fel5lU0k)
 - [Building a four node Raspberry Pi Kubernetes Cluster](https://www.youtube.com/watch?v=kZ1TOHv0PD4)
 - [2023 Personal Update: #1 TalkiTalk Series](https://www.youtube.com/watch?v=_p85tL4h5xA)
 - [Bootstrap your cluster and application with Terraform](https://www.youtube.com/watch?v=dQJIc_ErPSs)
-- [We won Top Tech YouTuber at the Noonies -- Thank you!](https://www.youtube.com/watch?v=83PO29BHs8k)
 <!-- YOUTUBE-LIST:END -->
