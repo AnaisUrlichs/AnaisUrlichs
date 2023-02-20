@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [She Can Cloud Native: Kubernetes deployment strategies](https://www.youtube.com/watch?v=r1GRGLsblF4)
+- [She Can Cloud Native: Kubernetes 101 - What I wish I knew as a Developer](https://www.youtube.com/watch?v=3mNxtNqGk78)
+- [She Can Cloud Native: Cloud Native WebAssembly with Divya Mohan](https://www.youtube.com/watch?v=QvIoE_M_GHA)
 - [State Of OpenCon 2023 - Learning the ropes of open source contributions](https://www.youtube.com/watch?v=CuMW4zIqssY)
 - [Live Stream on Cloud Native Design Icons -- on the Aqua OS Channel](https://www.youtube.com/watch?v=bJ-XuFB1HC0)
-- [State Of OpenCon 2023 - Interview with Marina](https://www.youtube.com/watch?v=C3cwPuc-LQQ)
-- [State Of OpenCon 2023 - Interview with Bartek from Google](https://www.youtube.com/watch?v=aAD3wNKpUNc)
-- [State Of OpenCon 2023 by OpenUK - Attendee Interviews](https://www.youtube.com/watch?v=EQJ1cW2SPFw)
 <!-- YOUTUBE-LIST:END -->
