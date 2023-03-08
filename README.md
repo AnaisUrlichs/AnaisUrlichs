@@ -23,5 +23,5 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 - [New Live Stream Series: She Can Cloud Native](https://www.youtube.com/watch?v=VmnC7-wQ_QY)
 - [She Can Cloud Native: Kubernetes deployment strategies](https://www.youtube.com/watch?v=r1GRGLsblF4)
 - [She Can Cloud Native: Kubernetes 101 - What I wish I knew as a Developer](https://www.youtube.com/watch?v=3mNxtNqGk78)
-- [She Can Cloud Native: Cloud Native WebAssembly with Divya Mohan](https://www.youtube.com/watch?v=QvIoE_M_GHA)
+- [State Of OpenCon 2023 - Learning the ropes of open source contributions](https://www.youtube.com/watch?v=CuMW4zIqssY)
 <!-- YOUTUBE-LIST:END -->
