@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Introduction to Notary V2 - Full tutorial](https://www.youtube.com/watch?v=uRFbnMGMrXI)
 - [She Can Cloud Native: On Building Better Developer Communities](https://www.youtube.com/watch?v=MJdoJsayJXg)
 - [LIVE Q&amp;A](https://www.youtube.com/watch?v=r1GRGLsblF4)
 - [She Can Cloud Native: Cloud Native WebAssembly with Divya Mohan](https://www.youtube.com/watch?v=QvIoE_M_GHA)
 - [New Live Stream Series: She Can Cloud Native](https://www.youtube.com/watch?v=VmnC7-wQ_QY)
-- [She Can Cloud Native: Kubernetes 101 - What I wish I knew as a Developer](https://www.youtube.com/watch?v=3mNxtNqGk78)
 <!-- YOUTUBE-LIST:END -->
