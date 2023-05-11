@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Getting started with Kubernetes and kubectl](https://www.youtube.com/watch?v=ztjUXIs8cbk)
 - [Kubernetes Intro](https://www.youtube.com/watch?v=rL2cOkXERC0)
 - [Kubernetes Deployment Strategies](https://www.youtube.com/watch?v=3osNxgugKpQ)
 - [Cruising across the cloud native ecosystem: What’s the CNCF](https://www.youtube.com/watch?v=2KG0OfHxgh8)
 - [She Can Cloud Native: Kubernetes 101 - What I wish I knew as a Developer](https://www.youtube.com/watch?v=3mNxtNqGk78)
-- [She Can Cloud Native: Kubernetes 101 - What I wish I knew as a Developer](https://www.youtube.com/watch?v=OGf-mz48V8o)
 <!-- YOUTUBE-LIST:END -->
