@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Imperative vs Declarative - what’s the difference?](https://www.youtube.com/watch?v=Vlf0LSUJVP0)
 - [Kubernetes Objects explained](https://www.youtube.com/watch?v=3pGCCotxzsY)
 - [Getting started with Kubernetes and kubectl](https://www.youtube.com/watch?v=ztjUXIs8cbk)
 - [Kubernetes Intro](https://www.youtube.com/watch?v=rL2cOkXERC0)
 - [Kubernetes Deployment Strategies](https://www.youtube.com/watch?v=3osNxgugKpQ)
-- [Cruising across the cloud native ecosystem: What’s the CNCF](https://www.youtube.com/watch?v=2KG0OfHxgh8)
 <!-- YOUTUBE-LIST:END -->
