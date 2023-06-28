@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Introduction to GitHub Actions](https://www.youtube.com/watch?v=Szykgp7yl4s)
 - [Full tutorials: K8sGPT -- Kubernetes Superpowers through AI](https://www.youtube.com/watch?v=SX_2YHC15cM)
 - [Introduction to control loops and Kubernetes operators](https://www.youtube.com/watch?v=D4JC5coZbrQ)
 - [Introduction to Flux](https://www.youtube.com/watch?v=JASfPqByeF4)
 - [Introduction to ArgoCD](https://www.youtube.com/watch?v=cCeVEHclVio)
-- [GitOps explained](https://www.youtube.com/watch?v=_7Wfv5eSMTs)
 <!-- YOUTUBE-LIST:END -->
