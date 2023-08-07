@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Weekly Live Stream - The tech nothing and everything show](https://www.youtube.com/watch?v=pvxnUKh5cEA)
 - [Developer Relations Career Path -- Come join the meetup](https://www.youtube.com/watch?v=CfrN95pMMb0)
 - [Full Kubernetes tutorial on Docker, KinD, kubectl, Helm, Prometheus, Grafana](https://www.youtube.com/watch?v=SeQevrW176A)
 - [Full tutorial: Continous in-cluster security scanning with the Trivy Operator](https://www.youtube.com/watch?v=2ehcITalryg)
 - [Introduction to GitHub Actions](https://www.youtube.com/watch?v=Szykgp7yl4s)
-- [Full tutorials: K8sGPT -- Kubernetes Superpowers through AI](https://www.youtube.com/watch?v=SX_2YHC15cM)
 <!-- YOUTUBE-LIST:END -->
