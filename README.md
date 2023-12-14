@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [Full Tutorial: AlertManager Set up and PrometheusRules](https://www.youtube.com/watch?v=HwB2oWUdoT4)
 - [Must Know Linux Commands](https://www.youtube.com/watch?v=Od5yaTIn6Lw)
 - [Weekly Live Stream - The tech nothing and everything show](https://www.youtube.com/watch?v=ZmulbeHniCk)
 - [Weekly Live Stream - The tech nothing and everything show](https://www.youtube.com/watch?v=pvxnUKh5cEA)
 - [Developer Relations Career Path -- Come join the meetup](https://www.youtube.com/watch?v=CfrN95pMMb0)
-- [Full Kubernetes tutorial on Docker, KinD, kubectl, Helm, Prometheus, Grafana](https://www.youtube.com/watch?v=SeQevrW176A)
 <!-- YOUTUBE-LIST:END -->
