@@ -19,9 +19,9 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
 <!-- YOUTUBE-LIST:START -->
+- [State of OpenCon: Interview with Amanda Brock -- CEO at OpenUK](https://www.youtube.com/watch?v=ReJOB42YaPA)
 - [Tutorial: Cosign Signature, Attestation, Trivy Reports and Kyverno Policies](https://www.youtube.com/watch?v=soTg-b-Uqkw)
 - [Full Tutorial: AlertManager Set up and PrometheusRules](https://www.youtube.com/watch?v=HwB2oWUdoT4)
 - [Must Know Linux Commands](https://www.youtube.com/watch?v=Od5yaTIn6Lw)
 - [Weekly Live Stream - The tech nothing and everything show](https://www.youtube.com/watch?v=ZmulbeHniCk)
-- [Weekly Live Stream - The tech nothing and everything show](https://www.youtube.com/watch?v=pvxnUKh5cEA)
 <!-- YOUTUBE-LIST:END -->
