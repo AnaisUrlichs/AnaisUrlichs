@@ -15,6 +15,11 @@ I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.
 
 **Weekly Newsletter: Seven-Day DevOps**
 <!-- NEWSLETTER-LIST:START -->
+- [Introduction to Dagger](https://anaisurl.com/introduction-to-dagger/)
+- [Private Container Images on GitHub](https://anaisurl.com/private-container-images-on-github/)
+- [Crossplane Infographic from 2021](https://anaisurl.com/crossplane-infographic-from-2021/)
+- [Tools to make your presentation shine](https://anaisurl.com/tools-to-make-your-presentation-shine/)
+- [Container Image Layers and Container Image Scanning Explained](https://anaisurl.com/container-image-layers-explained/)
 <!-- NEWSLETTER-LIST:END -->
 
 **Interested in video tutorials? Follow me on my 100 Days of Kubernetes journey**
