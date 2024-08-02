@@ -5,8 +5,8 @@
 ![twitter-follower](https://img.shields.io/twitter/follow/urlichsanais?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCb4mfRT5UWpjoUQRcIE2qOQ?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCb4mfRT5UWpjoUQRcIE2qOQ?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) 
 
 **More about me?** ℹ️
-* Developer Advocate at [Aqua Security](https://github.com/aquasecurity)
-* Spent 3 years in crypto, contributing to [NEAR Protocol](https://github.com/near)
+* Platform Engineer with 4 years experience in the cloud native space
+* Before that, I spent 3 years in crypto, contributing to [NEAR Protocol](https://github.com/near)
 * View my [Website](https://anaisurl.com/)
 * Checkout my DevOps [Newsletter](https://anaisurl.com/tag/devops)
 * Subscribe to my [YouTube](https://www.youtube.com/c/AnaisUrlichs) for new tutorials weekly
