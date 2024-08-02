@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "NEWSLETTER"
-          feed_list: "https://anaisurl.com/blog/rss/"
+          comment_tag_name: "NEWSLETTER-LIST"
+          feed_list: "https://anaisurl.com/rss/"
