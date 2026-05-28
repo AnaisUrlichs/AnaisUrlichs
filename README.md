@@ -8,10 +8,10 @@
 * Platform Engineer with 6 years experience in the cloud native space
 * Before that, I spent 3 years in crypto, contributing to [NEAR Protocol](https://github.com/near)
 * View my [Website](https://anaisurl.com/)
-* Checkout my DevOps [Newsletter](https://anaisurl.com/tag/devops)
-* Subscribe to my [YouTube](https://www.youtube.com/c/AnaisUrlichs) for new tutorials weekly
+* If you are curious where I worked before, here is my [LinkedIn](https://www.linkedin.com/in/urlichsanais/)
 
-I keep a list of public DevOps resources on my [Notion](https://devops.anaisurl.com/) :boom:
+**Fun fact?** ✨
+I used to work in Developer Advocacy, spoke at over 100 conferences, ran a [Newsletter](https://anaisurl.com/tag/devops) and [YouTube](https://www.youtube.com/c/AnaisUrlichs) channel.
 
 **Weekly Newsletter: Seven-Day DevOps**
 <!-- NEWSLETTER-LIST:START -->
